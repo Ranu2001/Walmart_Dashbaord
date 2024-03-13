@@ -28,5 +28,4 @@ The Walmart Dashboard is built using the following technologies:
 ## Contributors
 - Ranu Bhasker (@Ranu2001)
 
-## License
-This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for details.
+
